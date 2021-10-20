@@ -1,0 +1,6 @@
+Name: JeonYeongwoo
+Number: 2021041072
+Major: Software
+Grade: 1stGrade
+Subject: OpensourceSoftwareandPractice
+
